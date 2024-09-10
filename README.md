@@ -46,8 +46,6 @@ Welcome to my dotfiles repository! This repository contains my personal configur
   ```bash
     ln -sf ~/dotfiles/.config/hypr/hyprland.conf ~/.config/hypr/hyprland.conf
     ln -sf ~/dotfiles/.zshrc ~/.zshrc
-    ln -sf ~/dotfiles/.config/nvim/init.vim ~/.config/nvim/init.vim
-    ln -sf ~/dotfiles/.gitconfig ~/.gitconfig
     ln -sf ~/dotfiles/.config/cava/config ~/.config/cava/config
     ln -sf ~/dotfiles/.config/hyde/config ~/.config/hyde/config
     ln -sf ~/dotfiles/.config/rofi/config.rasi ~/.config/rofi/config.rasi
