@@ -73,8 +73,7 @@ alias po='$aurhelper -Qtdq | $aurhelper -Rns -' # remove unused packages, also t
 alias vc='code' # gui code editor
 alias cd='z' # use z instead of cd
 alias cdi='zi' # view z database 
-alias pgadmin4='/usr/local/bin/start_pgadmin.sh' # pgadmin 4 script startup shortcut
-alias startpost='sudo systemctl start postgresql'
+
 # Handy change dir shortcuts
 alias ..='cd ..'
 alias ...='cd ../..'
