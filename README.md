@@ -2,6 +2,12 @@
 
 Welcome to my dotfiles repository! This repository contains my personal configuration files for a Hyprland setup on Arch Linux. These dotfiles include configurations for various tools and applications to help you get started with a similar setup.
 
+## Demo
+
+<div>
+    <img src="https://github.com/CFdefense/CFdefense.github.io/blob/main/public/media/projects/hypr.gif?raw=true" alt="Description of the GIF" width="1000">
+</div>
+
 ## Features
 
 - **Hyprland Configuration**: Custom settings and themes for Hyprland.
