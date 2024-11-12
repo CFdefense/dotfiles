@@ -22,7 +22,6 @@ group {
 
 decoration {
     rounding = 2
-    drop_shadow = true
     shadow_scale = 1
     shadow_ignore_window = true
     shadow_offset = 0 0

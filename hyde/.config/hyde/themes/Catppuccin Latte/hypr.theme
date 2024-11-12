@@ -22,8 +22,7 @@ group {
 
 decoration {
     rounding = 10
-    drop_shadow = false
-
+    
     blur {
         enabled = yes
         size = 6

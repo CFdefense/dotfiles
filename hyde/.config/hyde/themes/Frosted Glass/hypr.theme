@@ -29,7 +29,6 @@ group {
 
 decoration {
     rounding = 13
-    drop_shadow = false
     shadow_ignore_window = true
     shadow_offset = 0 0
     shadow_range = 15
