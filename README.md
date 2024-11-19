@@ -38,7 +38,7 @@ Welcome to my dotfiles repository! This repository contains my personal configur
 1. **Clone the Repository**
 
 ```bash
-  git clone https://github.com/yourusername/dotfiles.git
+  git clone https://github.com/CFdefense/dotfiles.git
   cd dotfiles
 ```
    
