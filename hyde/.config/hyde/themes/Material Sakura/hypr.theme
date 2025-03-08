@@ -22,12 +22,15 @@ group {
 
 decoration {
     rounding = 12
-    shadow_ignore_window = true
-    shadow_offset = 6 6
-    shadow_range = 3
-    shadow_render_power = 4
-    col.shadow = 0xff26233a
 
+    shadow {
+    	ignore_window = true
+    	offset = 6 6
+    	range = 3
+    	render_power = 4
+    	color = 0xff26233a
+    } 
+    
     blur {
         enabled = yes
         size = 6

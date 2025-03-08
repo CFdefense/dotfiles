@@ -73,7 +73,7 @@ alias po='$aurhelper -Qtdq | $aurhelper -Rns -' # remove unused packages, also t
 alias vc='code' # gui code editor
 alias cd='z' # use z instead of cd
 alias cdi='zi' # view z database 
-alias pgadmin4='/usr/local/bin/start_pgadmin.sh' # pgadmin 4 script startup shortcut
+# alias pgadmin4='/usr/local/bin/start_pgadmin.sh' # pgadmin 4 script startup shortcut
 alias startpost='sudo systemctl start postgresql'
 # Handy change dir shortcuts
 alias ..='cd ..'
@@ -81,6 +81,7 @@ alias ...='cd ../..'
 alias .3='cd ../../..'
 alias .4='cd ../../../..'
 alias .5='cd ../../../../..'
+alias cursor='~/Applications/cursor-*.AppImage'
 
 # Always mkdir a path (this doesn't inhibit functionality to make a single dir)
 alias mkdir='mkdir -p'
@@ -93,3 +94,8 @@ pokemon-colorscripts --no-title -r 1,3,6
 
 eval "$(zoxide init zsh)"
 eval $(thefuck --alias fuck)
+
+export HISTSIZE=100000
+export SAVEHIST=100000
+
+export PATH="/usr/pgadmin4/bin:$PATH"
