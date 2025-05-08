@@ -1,0 +1,5 @@
+com.discordapp.Discord
+com.obsproject.Studio
+com.spotify.Client
+md.obsidian.Obsidian
+us.zoom.Zoom
